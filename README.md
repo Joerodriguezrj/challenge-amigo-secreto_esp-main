@@ -1,4 +1,4 @@
-# 🎉 Sorteo de Amigos  
+# 🎉 Sorteo de Amigo secreto  
 
 Este proyecto es una aplicación web sencilla que permite agregar amigos a una lista y realizar un sorteo aleatorio para elegir a uno de ellos.  
 
